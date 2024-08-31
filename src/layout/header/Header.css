@@ -1,0 +1,19 @@
+#header{
+    padding: 15px 0;
+    background: rgb(29, 29, 151);
+}
+.header-content-wrapper{
+    width: 100%;
+    text-align: center;
+}
+.header-contant{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgba(184, 193, 201, 0.788);
+}
+.header-unique-contant{
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: capitalize;
+    color: rgba(240, 248, 255, 0.897);
+}
